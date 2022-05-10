@@ -322,7 +322,7 @@ body{
 .adjust{
     width:30vw;
 }
-@media only screen and (max-width: 800px)
+@media only screen and (max-width: 600px)
 {
     .go-back{
         width:20vw;
