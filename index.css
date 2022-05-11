@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(98, 19, 173);
+    display:flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
+    gap:30px;
+    position:relative;
+    top:30vh;
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color:white;
+
+}
+button{
+    width: 30vw;
+    height:5vh;
+    background-color: rgb(156, 81, 226);
+    border: none;
+    color:white;
+    font-size: large;
+}
+button:hover{
+    background-color: rgb(181, 127, 232);
+}
+.btn{
+    width:30vw;
+    height:5vh;
+    text-align: center;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-weight: bold;
+    cursor:pointer;
+}
+p{
+    color: white;
+}
