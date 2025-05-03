@@ -11,7 +11,7 @@ const CONSTANT  = {
         'Insane',
         'Inhuman'
     ],
-    LEVEL:[29,1,47,56,65,74],
+    LEVEL:[29,38,47,56,65,74],
     //29,38,47,56,65,74
     LEVELNAMEDB :[
         'easy',
